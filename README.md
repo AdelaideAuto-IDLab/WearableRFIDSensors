@@ -1,1 +1,1 @@
-# WearableRFIDSensors
+# WearableUserStudy
